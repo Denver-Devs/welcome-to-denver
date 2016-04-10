@@ -11,5 +11,16 @@ This is a resource for anyone visiting Denver or poeple recently new to the Denv
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
 
+## Boulder & Denver
+What's the diff? How is the commute? 
+
+## Neighborhoods
+
+### Denver Tech Center
+### Rino
+### Baker
+### Capitol Hill
+### Washs Park
+
 # Contributing
 What are other high level topics to include here? What do new people want and need?
