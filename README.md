@@ -20,7 +20,7 @@ What's the diff? How is the commute?
 ### Rino
 ### Baker
 ### Capitol Hill
-### Washs Park
+### Wash Park
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
