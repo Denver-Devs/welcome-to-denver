@@ -7,6 +7,9 @@ This is a resource for anyone visiting Denver or poeple recently new to the Denv
 * [Tech Friends](http://www.gettechfriends.com/) (Boulder)
 
 ## Meetups
+* Develop Happy Hour (http://www.meetup.com/Develop-Happy-Hour/)
+* DenverScript (http://www.meetup.com/DenverScript/)
+* Denver Creative Tech (http://www.meetup.com/denver-creative-tech/)
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
