@@ -1,6 +1,6 @@
 # Welcome to Denver
 
-This is a resource for anyone visiting Denver or poeple recently new to the Denver tech scene.
+This is a resource for anyone visiting Denver or people recently new to the Denver tech scene.
 
 ## Communities
 * [Denver Devs](http://denverdevs.org/)
