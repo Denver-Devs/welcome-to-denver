@@ -13,6 +13,7 @@ This is a resource for anyone visiting Denver or poeple recently new to the Denv
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
+* [The Denver Egotist](http://www.thedenveregotist.com/jobs)
 
 ## Boulder & Denver
 What's the diff? How is the commute? 
