@@ -24,10 +24,11 @@ This is a resource for anyone visiting Denver or poeple recently new to the Denv
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
+* [The Denver Egotist](http://www.thedenveregotist.com/jobs)
 * #topic-gigs in the Denver Devs Slack
 
 ## Boulder & Denver
-What's the diff? How is the commute? 
+What's the diff? How is the commute?
 
 ## Neighborhoods
 
@@ -38,7 +39,7 @@ What's the diff? How is the commute?
 ### Wash Park
 
 
-## Out of Office Working (coffee shops, bars, etc) 
+## Out of Office Working (coffee shops, bars, etc)
 * [Bardo Coffee House](http://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 
