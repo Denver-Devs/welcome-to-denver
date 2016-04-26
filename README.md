@@ -21,12 +21,12 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
-* [Dinsoaur.js](http://dinosaurjs.org/)
+* [Dinosaur.js](http://dinosaurjs.org/)
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
 * [The Denver Egotist](http://www.thedenveregotist.com/jobs)
-* #topic-gigs in the Denver Devs Slack
+* [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs/) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
 
 ## Boulder & Denver
 What's the diff? How is the commute?
