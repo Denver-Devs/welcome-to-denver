@@ -44,5 +44,8 @@ What's the diff? How is the commute?
 * [Bardo Coffee House](http://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 
+## Recreation
+* 
+
 # Contributing
 What are other high level topics to include here? What do new people want and need?
