@@ -45,7 +45,7 @@ What's the diff? How is the commute?
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 
 ## Recreation
-* 
+* [Denver Parks and Rec](https://www.denvergov.org/content/denvergov/en/denver-parks-and-recreation.html) Denver has fantastic, inexpensive rec centers with gyms and pools, and many, many public parks/golf courses/sports leagues, etc.
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
