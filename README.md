@@ -38,6 +38,12 @@ What's the diff? How is the commute?
 ### Baker
 ### Capitol Hill
 ### Wash Park
+### LoHi
+### West Highlands/Berkeley
+This is a pair of neighborhoods in NW Denver that are very similar. The major access route is Speer, going west of 25/Platte River. West Highlands is bounded by 29th Ave to the South, Sheridan to the West, 38th Ave to the North, and Federal to the East. Berkeley is the neighborhood immediately north of W Highlands.
+These neighborhoods are more residential than many of the downtown neighborhoods, with lower density housing. Speer offers quick and easy access to the freeway and downtown, and Sheridan/Federal are direct routes to the suburbs of Westminster/Broomfield (which also have many tech employers). They are just south of 70, which goes to the mountains and the airport.
+These neighborhoods tend to attract families in their late 20's through early 40's who want to be close to the city without being right in the middle of it.
+32nd Ave a block west of Federal, and Tennyson St between 38th and 46th Aves, are shopping districts. Tennyson runs a First Friday art-walk during the summer. There are many parks and a regional rec center in these neighborhoods.
 
 
 ## Out of Office Working (coffee shops, bars, etc)
@@ -45,7 +51,7 @@ What's the diff? How is the commute?
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 
 ## Recreation
-* 
+*
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
