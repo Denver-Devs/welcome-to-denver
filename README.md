@@ -18,6 +18,9 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
 * [Refresh Denver](http://www.meetup.com/refreshdenver/)
 * [Women Who Code Boulder/Denver](http://www.meetup.com/Women-Who-Code-Boulder-Denver/)
+* [Learn To Code Colorado](http://www.meetup.com/Learn-To-Code-Colorado/)
+* [Learn To Code Boulder](http://www.meetup.com/Learn-To-Code-Boulder/)
+* [Boulder Denver Big Data](http://www.meetup.com/Boulder-Denver-Big-Data/)
 
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
@@ -35,6 +38,14 @@ What's the diff? How is the commute?
 
 ### Denver Tech Center
 ### Rino
+Rino or "River North" encompasses the area just north of downtown on either side of the train tracks and bordered  by the Platte river on the west. Primarily old warehouses and manufacturing plants, this area is currently seeing rapid redevelopment. With the opening of the Colorado A line the DIA and the 38th & Blake st. station, this area is experiencing tremendous growth and will be unrecognizable in a few years due to rezoning of up to 16 stories.
+
+Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to [The Big Wonderful seasonal](http://thebigwonderful.ticketfly.com/), endless breweries and new restaurants [(like Biju's Little Curry shop )](http://www.littlecurryshop.com/), and some beautiful modern residences.
+
+### Five Points
+Five points consists of some smaller neighborhoods namely; Curtis Park, Whittier, Cole, Five Points, and the San Rafael historic district. These neighborhoods are home to some of the oldest houses and communities in Denver. Restaurants like Tom's Home Cookin' and buildings like the Rossonian Hotel are reminders of the rich history this area has to offer.
+
+
 ### Baker
 ### Capitol Hill
 ### Wash Park
@@ -49,9 +60,11 @@ These neighborhoods tend to attract families in their late 20's through early 40
 ## Out of Office Working (coffee shops, bars, etc)
 * [Bardo Coffee House](http://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
+* [Gather](http://gatherdenver.com/)
 
 ## Recreation
-*
+* Almost too much to do
+
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
