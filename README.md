@@ -22,10 +22,12 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Learn To Code Colorado](http://www.meetup.com/Learn-To-Code-Colorado/)
 * [Learn To Code Boulder](http://www.meetup.com/Learn-To-Code-Boulder/)
 * [Boulder Denver Big Data](http://www.meetup.com/Boulder-Denver-Big-Data/)
+* [Denver.rb](http://www.meetup.com/Denver-rb/)
 
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](http://dinosaurjs.org/)
+* [Denver Startup Week](http://www.denverstartupweek.org/)
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
