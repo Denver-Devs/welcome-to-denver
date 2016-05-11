@@ -22,6 +22,8 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Learn To Code Colorado](http://www.meetup.com/Learn-To-Code-Colorado/)
 * [Learn To Code Boulder](http://www.meetup.com/Learn-To-Code-Boulder/)
 * [Boulder Denver Big Data](http://www.meetup.com/Boulder-Denver-Big-Data/)
+* [ReactJS Denver](http://www.meetup.com/ReactJS-Denver/)
+* [Code for Denver](http://www.meetup.com/CodeForDenver/)
 
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
