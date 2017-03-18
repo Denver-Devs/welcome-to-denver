@@ -51,6 +51,8 @@ Right now this area is home to great restaurants and breweries, but very little 
 ### Five Points
 Five points consists of some smaller neighborhoods namely; Curtis Park, Whittier, Cole, Five Points, and the San Rafael historic district. These neighborhoods are home to some of the oldest houses and communities in Denver. Restaurants like Tom's Home Cookin' and buildings like the Rossonian Hotel are reminders of the rich history this area has to offer.
 
+### Colfax
+Colfax is a strange neighborhood; it's a block wide, multiple miles long avenue that cuts through the middle of Denver. It infamously has a reputation as the "the longest and most wicked street in America." It's home to all sorts of wonders weirdness including Voodoo Donuts, the Tattered Cover, the Fillmore Auditorium, the Cathedral Basilica, Bluebird Theater, Ogden Theatre, and a ton of dive bars, breweries, and restaurants. You're more likely to run into "characters" in this neighborhood than almost anywhere else in Denver.
 
 ### Baker
 ### Capitol Hill
