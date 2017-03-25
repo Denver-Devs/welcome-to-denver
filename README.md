@@ -25,6 +25,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [ReactJS Denver](http://www.meetup.com/ReactJS-Denver/)
 * [Code for Denver](http://www.meetup.com/CodeForDenver/)
 * [Denver.rb](http://www.meetup.com/Denver-rb/)
+* [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
 
 
 ## Conferences
