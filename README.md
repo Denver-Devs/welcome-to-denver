@@ -70,6 +70,7 @@ These neighborhoods tend to attract families in their late 20's through early 40
 * [Bardo Coffee House](http://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 * [Gather](http://gatherdenver.com/)
+* [Quince Essential Coffee](http://www.quinceessentialcoffee.com/)
 
 ## Recreation
 * Almost too much to do
