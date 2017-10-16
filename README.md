@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master)](https://travis-ci.org/Denver-Devs/welcome-to-denver)
+
 # Welcome to Denver
 
 This is a resource for anyone visiting Denver or people recently new to the Denver tech scene.
