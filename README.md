@@ -30,7 +30,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
-* [Dinosaur.js](http://dinosaurjs.org/)
+* [Dinosaur.js](https://dinosaurjs.org/)
 * [Denver Startup Week](http://www.denverstartupweek.org/)
 
 ## Find a Job
