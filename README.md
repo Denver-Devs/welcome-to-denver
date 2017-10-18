@@ -31,9 +31,9 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Women Who Code Boulder/Denver](http://www.meetup.com/Women-Who-Code-Boulder-Denver/)
 
 ## Conferences
+* [Denver Startup Week](http://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://dinosaurjs.org/)
-* [Denver Startup Week](http://www.denverstartupweek.org/)
 
 ## Find a Job
 * [Built in Colorado](http://www.builtincolorado.com/jobs)
