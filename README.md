@@ -29,7 +29,6 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Refresh Denver](http://www.meetup.com/refreshdenver/)
 * [Women Who Code Boulder/Denver](http://www.meetup.com/Women-Who-Code-Boulder-Denver/)
 
-
 ## Conferences
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://dinosaurjs.org/)
@@ -67,7 +66,6 @@ These neighborhoods are more residential than many of the downtown neighborhoods
 These neighborhoods tend to attract families in their late 20's through early 40's who want to be close to the city without being right in the middle of it.
 32nd Ave a block west of Federal, and Tennyson St between 38th and 46th Aves, are shopping districts. Tennyson runs a First Friday art-walk during the summer. There are many parks and a regional rec center in these neighborhoods.
 
-
 ## Out of Office Working (coffee shops, bars, etc)
 * [Bardo Coffee House](http://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
@@ -76,7 +74,6 @@ These neighborhoods tend to attract families in their late 20's through early 40
 
 ## Recreation
 * Almost too much to do
-
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
