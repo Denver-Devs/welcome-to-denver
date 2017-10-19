@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow 302 --allow-ssl -w http://www.thedenveregotist.com/jobs
+  - awesome_bot README.md --allow-dupe --allow 302 --allow-ssl -w http://www.thedenveregotist.com/jobs,http://denhac.org/page/homepage

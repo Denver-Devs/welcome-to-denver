@@ -9,31 +9,33 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Tech Friends](https://www.gettechfriends.com/) (Boulder)
 
 ## Meetups
+* [Boulder Denver Big Data](https://www.meetup.com/Boulder-Denver-Big-Data/)
+* [Code for Denver](https://www.meetup.com/CodeForDenver/)
 * [CreativeMornings - Denver](https://creativemornings.com/cities/den)
-* [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
-* [DenverScript](https://www.meetup.com/DenverScript/)
+* [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
+* [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
 * [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
 * [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
+* [Denver.rb](https://www.meetup.com/Denver-rb/)
+* [DenverScript](https://www.meetup.com/DenverScript/)
+* [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 * [Ember.js Denver](https://www.meetup.com/Ember-js-Denver/)
-* [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
+* [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
 * [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
+* [Learn To Code Boulder](https://www.meetup.com/Learn-To-Code-Boulder/)
+* [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
+* [ReactJS Denver](https://www.meetup.com/ReactJS-Denver/)
 * [Refresh Denver](https://www.meetup.com/refreshdenver/)
 * [Women Who Code Boulder/Denver](https://www.meetup.com/Women-Who-Code-Boulder-Denver/)
-* [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
-* [Learn To Code Boulder](https://www.meetup.com/Learn-To-Code-Boulder/)
-* [Boulder Denver Big Data](https://www.meetup.com/Boulder-Denver-Big-Data/)
-* [ReactJS Denver](https://www.meetup.com/ReactJS-Denver/)
-* [Code for Denver](https://www.meetup.com/CodeForDenver/)
-* [Denver.rb](https://www.meetup.com/Denver-rb/)
-* [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
 
 
 ## Conferences
+* [Denver Startup Week](https://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://dinosaurjs.org/)
-* [Denver Startup Week](https://www.denverstartupweek.org/)
+
 
 ## Find a Job
 * [Built in Colorado](https://www.builtincolorado.com/jobs)
@@ -67,7 +69,6 @@ These neighborhoods are more residential than many of the downtown neighborhoods
 These neighborhoods tend to attract families in their late 20's through early 40's who want to be close to the city without being right in the middle of it.
 32nd Ave a block west of Federal, and Tennyson St between 38th and 46th Aves, are shopping districts. Tennyson runs a First Friday art-walk during the summer. There are many parks and a regional rec center in these neighborhoods.
 
-
 ## Out of Office Working (coffee shops, bars, etc)
 * [Bardo Coffee House](https://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
@@ -75,7 +76,6 @@ These neighborhoods tend to attract families in their late 20's through early 40
 
 ## Recreation
 * Almost too much to do
-
 
 # Contributing
 What are other high level topics to include here? What do new people want and need?
