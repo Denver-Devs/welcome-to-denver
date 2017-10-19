@@ -1,44 +1,46 @@
-[![Build Status](https://travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master)](https://travis-ci.org/Denver-Devs/welcome-to-denver)
+[![Build Status](https://api.travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master)](https://api.travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master)
 
 # Welcome to Denver
 
 This is a resource for anyone visiting Denver or people recently new to the Denver tech scene.
 
 ## Communities
-* [Denver Devs](http://denverdevs.org/)
-* [Tech Friends](http://www.gettechfriends.com/) (Boulder)
+* [Denver Devs](https://denverdevs.org/)
+* [Tech Friends](https://www.gettechfriends.com/) (Boulder)
 
 ## Meetups
-* [Boulder Denver Big Data](http://www.meetup.com/Boulder-Denver-Big-Data/)
-* [Code for Denver](http://www.meetup.com/CodeForDenver/)
+* [Boulder Denver Big Data](https://www.meetup.com/Boulder-Denver-Big-Data/)
+* [Code for Denver](https://www.meetup.com/CodeForDenver/)
 * [CreativeMornings - Denver](https://creativemornings.com/cities/den)
 * [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
 * [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
-* [Denver Code Club](http://www.meetup.com/Denver-Code-Club/)
-* [Denver Creative Tech](http://www.meetup.com/denver-creative-tech/)
-* [Denver Hack Nite](http://www.meetup.com/Denver-Hack-Nite/)
-* [Denver.rb](http://www.meetup.com/Denver-rb/)
-* [DenverScript](http://www.meetup.com/DenverScript/)
-* [Develop Happy Hour](http://www.meetup.com/Develop-Happy-Hour/)
-* [Ember.js Denver](http://www.meetup.com/Ember-js-Denver/)
+* [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
+* [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
+* [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
+* [Denver.rb](https://www.meetup.com/Denver-rb/)
+* [DenverScript](https://www.meetup.com/DenverScript/)
+* [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
+* [Ember.js Denver](https://www.meetup.com/Ember-js-Denver/)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
 * [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
 * [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
-* [Learn To Code Boulder](http://www.meetup.com/Learn-To-Code-Boulder/)
-* [Learn To Code Colorado](http://www.meetup.com/Learn-To-Code-Colorado/)
-* [ReactJS Denver](http://www.meetup.com/ReactJS-Denver/)
-* [Refresh Denver](http://www.meetup.com/refreshdenver/)
-* [Women Who Code Boulder/Denver](http://www.meetup.com/Women-Who-Code-Boulder-Denver/)
+* [Learn To Code Boulder](https://www.meetup.com/Learn-To-Code-Boulder/)
+* [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
+* [ReactJS Denver](https://www.meetup.com/ReactJS-Denver/)
+* [Refresh Denver](https://www.meetup.com/refreshdenver/)
+* [Women Who Code Boulder/Denver](https://www.meetup.com/Women-Who-Code-Boulder-Denver/)
+
 
 ## Conferences
-* [Denver Startup Week](http://www.denverstartupweek.org/)
+* [Denver Startup Week](https://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://dinosaurjs.org/)
 
+
 ## Find a Job
-* [Built in Colorado](http://www.builtincolorado.com/jobs)
+* [Built in Colorado](https://www.builtincolorado.com/jobs)
 * [The Denver Egotist](http://www.thedenveregotist.com/jobs)
-* [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs/) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
+* [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
 
 ## Boulder & Denver
 What's the diff? How is the commute?
@@ -49,7 +51,7 @@ What's the diff? How is the commute?
 ### Rino
 Rino or "River North" encompasses the area just north of downtown on either side of the train tracks and bordered  by the Platte river on the west. Primarily old warehouses and manufacturing plants, this area is currently seeing rapid redevelopment. With the opening of the Colorado A line the DIA and the 38th & Blake st. station, this area is experiencing tremendous growth and will be unrecognizable in a few years due to rezoning of up to 16 stories.
 
-Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to [The Big Wonderful seasonal](http://thebigwonderful.ticketfly.com/), endless breweries and new restaurants [(like Biju's Little Curry shop )](http://www.littlecurryshop.com/), and some beautiful modern residences.
+Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to The Big Wonderful seasonal, endless breweries and new restaurants [(like Biju's Little Curry shop )](https://www.littlecurryshop.com/), and some beautiful modern residences.
 
 ### Five Points
 Five points consists of some smaller neighborhoods namely; Curtis Park, Whittier, Cole, Five Points, and the San Rafael historic district. These neighborhoods are home to some of the oldest houses and communities in Denver. Restaurants like Tom's Home Cookin' and buildings like the Rossonian Hotel are reminders of the rich history this area has to offer.
@@ -68,9 +70,8 @@ These neighborhoods tend to attract families in their late 20's through early 40
 32nd Ave a block west of Federal, and Tennyson St between 38th and 46th Aves, are shopping districts. Tennyson runs a First Friday art-walk during the summer. There are many parks and a regional rec center in these neighborhoods.
 
 ## Out of Office Working (coffee shops, bars, etc)
-* [Bardo Coffee House](http://www.bardocoffee.com/)
+* [Bardo Coffee House](https://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
-* [Gather](http://gatherdenver.com/)
 * [Quince Essential Coffee](http://www.quinceessentialcoffee.com/)
 
 ## Recreation
