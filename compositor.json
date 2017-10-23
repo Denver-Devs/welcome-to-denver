@@ -1,0 +1,142 @@
+{
+  "name": "Denver-Devs/welcome-to-denver",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Welcome To Denver",
+  "branch": "",
+  "style": {
+    "name": "Default",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BannerHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "-apple-system, BlinkMacSystemFont, sans-serif",
+    "fontWeight": 400,
+    "bold": 600,
+    "lineHeight": 1.5,
+    "typeScale": [
+      72,
+      48,
+      24,
+      20,
+      16,
+      14,
+      12
+    ],
+    "monospace": "Menlo, monospace",
+    "heading": {
+      "fontFamily": null,
+      "fontStyle": null,
+      "fontWeight": 600,
+      "lineHeight": 1.25,
+      "textTransform": null,
+      "letterSpacing": null
+    },
+    "h0": {},
+    "h1": {},
+    "h2": {},
+    "h3": {},
+    "h4": {},
+    "h5": {},
+    "h6": {},
+    "alternativeText": {},
+    "space": [
+      0,
+      8,
+      16,
+      32,
+      48,
+      64,
+      96
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "centered": false
+    },
+    "colors": {
+      "text": "#111",
+      "background": "#fff",
+      "primary": "#08e",
+      "secondary": "#059",
+      "highlight": "#e08",
+      "border": "#ddd",
+      "muted": "#eee"
+    },
+    "border": {
+      "width": 1,
+      "radius": 2
+    },
+    "link": {},
+    "button": {
+      "hover": {
+        "boxShadow": "inset 0 0 0 999px rgba(0, 0, 0, .125)"
+      }
+    },
+    "input": {},
+    "body": {
+      "margin": 0
+    },
+    "breakpoints": {
+      "xs": "@media screen and (max-width:40em)",
+      "sm": "@media screen and (min-width:40em)",
+      "md": "@media screen and (min-width:52em)",
+      "lg": "@media screen and (min-width:64em)"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "http://denverdevs.org",
+          "text": "Home"
+        },
+        {
+          "href": "https://github.com/Denver-Devs/welcome-to-denver",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "welcome-to-denver",
+      "subhead": "A resource for anyone visiting Denver or people recently new to the Denver tech scene curated by Denver Devs, welcome to Denver :)",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "welcome-to-denver: A resource for anyone visiting Denver or people recently new to the Denver tech scene curated by Denver Devs, welcome to Denver :)",
+          "url": "http://denverdevs.org"
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "Denver-Devs",
+          "repo": "welcome-to-denver"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<p><a href=\"https://api.travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master\"><img src=\"https://api.travis-ci.org/Denver-Devs/welcome-to-denver.svg?branch=master\"></a></p>\n<h1>Welcome to Denver</h1>\n<p>This is a resource for anyone visiting Denver or people recently new to the Denver tech scene.</p>\n<h2>Communities</h2>\n<ul>\n<li><a href=\"https://denverdevs.org/\">Denver Devs</a></li>\n<li><a href=\"https://www.gettechfriends.com/\">Tech Friends</a> (Boulder)</li>\n</ul>\n<h2>Meetups</h2>\n<ul>\n<li><a href=\"https://www.meetup.com/Boulder-Denver-Big-Data/\">Boulder Denver Big Data</a></li>\n<li><a href=\"https://www.meetup.com/CodeForDenver/\">Code for Denver</a></li>\n<li><a href=\"https://creativemornings.com/cities/den\">CreativeMornings - Denver</a></li>\n<li><a href=\"https://denhac.org/page/homepage\">Denhac</a> (on <a href=\"https://www.meetup.com/denhac-hackerspace/\">meetup.com</a>)</li>\n<li><a href=\"https://www.meetup.com/Denver-CoffeeOps/\">Denver CoffeeOps</a></li>\n<li><a href=\"https://www.meetup.com/Denver-Code-Club/\">Denver Code Club</a></li>\n<li><a href=\"https://www.meetup.com/denver-creative-tech/\">Denver Creative Tech</a></li>\n<li><a href=\"https://www.meetup.com/Denver-Hack-Nite/\">Denver Hack Nite</a></li>\n<li><a href=\"https://www.meetup.com/Denver-rb/\">Denver.rb</a></li>\n<li><a href=\"https://www.meetup.com/DenverScript/\">DenverScript</a></li>\n<li><a href=\"https://www.meetup.com/Develop-Happy-Hour/\">Develop Happy Hour</a></li>\n<li><a href=\"https://www.meetup.com/Ember-js-Denver/\">Ember.js Denver</a></li>\n<li><a href=\"https://www.girldevelopit.com/chapters/boulder\">Girl Develop It - Boulder</a></li>\n<li><a href=\"https://www.girldevelopit.com/chapters/denver\">Girl Develop It - Denver</a></li>\n<li><a href=\"http://adclubdenver.com/Kegs-With-Legs\">Kegs With Legs</a></li>\n<li><a href=\"https://www.meetup.com/Learn-To-Code-Boulder/\">Learn To Code Boulder</a></li>\n<li><a href=\"https://www.meetup.com/Learn-To-Code-Colorado/\">Learn To Code Colorado</a></li>\n<li><a href=\"https://www.meetup.com/ReactJS-Denver/\">ReactJS Denver</a></li>\n<li><a href=\"https://www.meetup.com/refreshdenver/\">Refresh Denver</a></li>\n<li><a href=\"https://www.meetup.com/Women-Who-Code-Boulder-Denver/\">Women Who Code Boulder/Denver</a></li>\n</ul>\n<h2>Conferences</h2>\n<ul>\n<li><a href=\"https://www.denverstartupweek.org/\">Denver Startup Week</a></li>\n<li><a href=\"https://developdenver.org/\">Develop Denver</a></li>\n<li><a href=\"https://dinosaurjs.org/\">Dinosaur.js</a></li>\n</ul>\n<h2>Find a Job</h2>\n<ul>\n<li><a href=\"https://www.builtincolorado.com/jobs\">Built in Colorado</a></li>\n<li><a href=\"http://www.thedenveregotist.com/jobs\">The Denver Egotist</a></li>\n<li><a href=\"https://denver-devs.slack.com/messages/topic-gigs\">#topic-gigs</a> in the <a href=\"https://denver-dev-slack.herokuapp.com/\">Denver Devs Slack</a></li>\n</ul>\n<h2>Boulder &amp; Denver</h2>\n<p>What&apos;s the diff? How is the commute?</p>\n<h2>Neighborhoods</h2>\n<h3>Denver Tech Center</h3>\n<h3>Rino</h3>\n<p>Rino or &quot;River North&quot; encompasses the area just north of downtown on either side of the train tracks and bordered  by the Platte river on the west. Primarily old warehouses and manufacturing plants, this area is currently seeing rapid redevelopment. With the opening of the Colorado A line the DIA and the 38th &amp; Blake st. station, this area is experiencing tremendous growth and will be unrecognizable in a few years due to rezoning of up to 16 stories.</p>\n<p>Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to The Big Wonderful seasonal, endless breweries and new restaurants <a href=\"https://www.littlecurryshop.com/\">(like Biju&apos;s Little Curry shop )</a>, and some beautiful modern residences.</p>\n<h3>Five Points</h3>\n<p>Five points consists of some smaller neighborhoods namely; Curtis Park, Whittier, Cole, Five Points, and the San Rafael historic district. These neighborhoods are home to some of the oldest houses and communities in Denver. Restaurants like Tom&apos;s Home Cookin&apos; and buildings like the Rossonian Hotel are reminders of the rich history this area has to offer.</p>\n<h3>Colfax</h3>\n<p>Colfax is a strange neighborhood; it&apos;s a block wide, multiple miles long avenue that cuts through the middle of Denver. It infamously has a reputation as the &quot;the longest and most wicked street in America.&quot; It&apos;s home to all sorts of wonders weirdness including Voodoo Donuts, the Tattered Cover, the Fillmore Auditorium, the Cathedral Basilica, Bluebird Theater, Ogden Theatre, and a ton of dive bars, breweries, and restaurants. You&apos;re more likely to run into &quot;characters&quot; in this neighborhood than almost anywhere else in Denver.</p>\n<h3>Baker</h3>\n<h3>Capitol Hill</h3>\n<h3>Wash Park</h3>\n<h3>LoHi</h3>\n<h3>West Highlands/Berkeley</h3>\n<p>This is a pair of neighborhoods in NW Denver that are very similar. The major access route is Speer, going west of 25/Platte River. West Highlands is bounded by 29th Ave to the South, Sheridan to the West, 38th Ave to the North, and Federal to the East. Berkeley is the neighborhood immediately north of W Highlands.\nThese neighborhoods are more residential than many of the downtown neighborhoods, with lower density housing. Speer offers quick and easy access to the freeway and downtown, and Sheridan/Federal are direct routes to the suburbs of Westminster/Broomfield (which also have many tech employers). They are just south of 70, which goes to the mountains and the airport.\nThese neighborhoods tend to attract families in their late 20&apos;s through early 40&apos;s who want to be close to the city without being right in the middle of it.\n32nd Ave a block west of Federal, and Tennyson St between 38th and 46th Aves, are shopping districts. Tennyson runs a First Friday art-walk during the summer. There are many parks and a regional rec center in these neighborhoods.</p>\n<h2>Out of Office Working (coffee shops, bars, etc)</h2>\n<ul>\n<li><a href=\"https://www.bardocoffee.com/\">Bardo Coffee House</a></li>\n<li><a href=\"http://www.habitcarbon.com/\">Carbon Beverage Cafe</a></li>\n<li><a href=\"http://www.quinceessentialcoffee.com/\">Quince Essential Coffee</a></li>\n</ul>\n<h2>Recreation</h2>\n<ul>\n<li>Almost too much to do</li>\n</ul>\n<h1>Contributing</h1>\n<p>What are other high level topics to include here? What do new people want and need?</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/Denver-Devs/welcome-to-denver",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/Denver-Devs",
+          "text": "Denver-Devs"
+        }
+      ]
+    }
+  ]
+}
