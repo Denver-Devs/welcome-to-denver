@@ -39,7 +39,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 ## Find a Job
 * [Built in Colorado](https://www.builtincolorado.com/jobs)
-* [The Denver Egotist](http://www.thedenveregotist.com/jobs)
+* [The Denver Egotist](https://www.thedenveregotist.com/job)
 * [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
 
 ## Boulder & Denver
