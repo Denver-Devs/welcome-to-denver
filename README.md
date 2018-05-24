@@ -26,7 +26,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
 * [Learn To Code Boulder](https://www.meetup.com/Learn-To-Code-Boulder/)
 * [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
-* [ReactJS Denver](https://www.meetup.com/ReactJS-Denver/)
+* [ReactJS Denver](https://www.meetup.com/ReactDenver/)
 * [Refresh Denver](https://www.meetup.com/refreshdenver/)
 * [Women Who Code Boulder/Denver](https://www.meetup.com/Women-Who-Code-Boulder-Denver/)
 
@@ -39,7 +39,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 ## Find a Job
 * [Built in Colorado](https://www.builtincolorado.com/jobs)
-* [The Denver Egotist](http://www.thedenveregotist.com/jobs)
+* [The Denver Egotist](https://www.thedenveregotist.com/job/)
 * [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
 
 ## Boulder & Denver
