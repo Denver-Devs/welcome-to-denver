@@ -16,16 +16,20 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
 * [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
+* [Denver Erlang and Elixir](https://www.meetup.com/Denver-Erlang-Elixir/)
 * [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
+* [Denver Vue.js](https://www.meetup.com/Denver-Vue-js-Meetup/)
 * [Denver.rb](https://www.meetup.com/Denver-rb/)
 * [DenverScript](https://www.meetup.com/DenverScript/)
 * [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 * [Ember.js Denver](https://www.meetup.com/Ember-js-Denver/)
+* [Fullstack](https://www.meetup.com/fullstack/)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
 * [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
 * [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
-* [Learn To Code Boulder](https://www.meetup.com/Learn-To-Code-Boulder/)
+* [Learn To Code Front Range](https://www.meetup.com/Learn-To-Code-Front-Range/)
 * [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
+* [Mile High Gophers - Denver (Go Lang)](https://www.meetup.com/Denver-Go-Language-User-Group/)
 * [ReactJS Denver](https://www.meetup.com/ReactDenver/)
 * [Refresh Denver](https://www.meetup.com/refreshdenver/)
 * [Women Who Code Boulder/Denver](https://www.meetup.com/Women-Who-Code-Boulder-Denver/)
@@ -34,13 +38,13 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 ## Conferences
 * [Denver Startup Week](https://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
-* [Dinosaur.js](https://dinosaurjs.org/)
+* [Dinosaur.js](https://twitter.com/dinosaur_js?lang=en)
 
 
 ## Find a Job
 * [Built in Colorado](https://www.builtincolorado.com/jobs)
 * [The Denver Egotist](https://www.thedenveregotist.com/job/)
-* [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs) in the [Denver Devs Slack](https://denver-dev-slack.herokuapp.com/)
+* [#topic-gigs](https://denver-devs.slack.com/messages/topic-gigs) in the [Denver Devs Slack](https://denverdevs.org/)
 
 ## Boulder & Denver
 What's the diff? How is the commute?
