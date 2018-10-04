@@ -17,6 +17,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
 * [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
 * [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
+* [Denver Vue.js](https://www.meetup.com/Denver-Vue-js-Meetup/)
 * [Denver.rb](https://www.meetup.com/Denver-rb/)
 * [DenverScript](https://www.meetup.com/DenverScript/)
 * [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
