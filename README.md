@@ -39,7 +39,6 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Denver Startup Week](https://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://twitter.com/dinosaur_js?lang=en)
-<!-- * [Dinosaur.js](https://dinosaurjs.org/) -->
 
 
 ## Find a Job
