@@ -78,6 +78,7 @@ These neighborhoods tend to attract families in their late 20's through early 40
 ## Out of Office Working (coffee shops, bars, etc)
 * [Bardo Coffee House](https://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
+* [Common Grounds Coffee House](http://www.commongroundscoffeehouse.com/)
 * [Quince Essential Coffee](http://www.quinceessentialcoffee.com/)
 
 ## Recreation
