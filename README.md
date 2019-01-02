@@ -13,7 +13,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Code for Denver](https://www.meetup.com/CodeForDenver/)
 * [CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [CreativeMornings - Denver](https://creativemornings.com/cities/den)
-* [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
+* [Denhac](https://denhac.org) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
 * [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
 * [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
