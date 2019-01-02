@@ -27,7 +27,6 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Fullstack](https://www.meetup.com/fullstack/)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
 * [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
-* [Kegs With Legs](http://adclubdenver.com/Kegs-With-Legs)
 * [Learn To Code Front Range](https://www.meetup.com/Learn-To-Code-Front-Range/)
 * [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
 * [Mile High Gophers - Denver (Go Lang)](https://www.meetup.com/Denver-Go-Language-User-Group/)
