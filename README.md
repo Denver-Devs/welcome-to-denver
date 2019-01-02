@@ -11,6 +11,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 ## Meetups
 * [Boulder Denver Big Data](https://www.meetup.com/Boulder-Denver-Big-Data/)
 * [Code for Denver](https://www.meetup.com/CodeForDenver/)
+* [CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [CreativeMornings - Denver](https://creativemornings.com/cities/den)
 * [Denhac](https://denhac.org/page/homepage) (on [meetup.com](https://www.meetup.com/denhac-hackerspace/))
 * [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
@@ -51,7 +52,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 ## Boulder & Denver
 Boulder and Denver are two distinct cities that are very near to each other, and they are both tech hubs. Denver is extremely large compared to Boulder, and Boulder is a lot more residential with Denver having more of a commercial and industrial complex built around it as well as residential. Most Boulder tech offices are centered around the Boulder downtown area, the mainstay of which is Pearl Street. Larger tech companies will rent more office space on the east side of town where there are less residential neighborhoods and more commerical real estate. Denver tech is centered Downtown or in the DTC (Denver Tech Center).
 
-The two cities are only about about [30 minutes away](https://www.google.com/maps/dir/Denver,+CO/Boulder,+CO/@39.8770264,-105.2662174,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!2m2!1d-104.990251!2d39.7392358!1m5!1m1!1s0x876b8d4e278dafd3:0xc8393b7ca01b8058!2m2!1d-105.2705456!2d40.0149856!3e0) from each other, but that can turn into almost an hour during rush hour. Typically, commuting out of Denver into Boulder everyday is the worse of the two options, whereas commuting out of Boulder into Denver is relatively smooth sailing. Boulder is extremely expensive to live in, so traffic into Boulder for the work day and out at the end of the day is pretty extreme as a lot of Boulders workforce lives outside the city.
+The two cities are only about about [30 minutes away](https://www.google.com/maps/dir/Denver,+CO/Boulder,+CO/@39.8770264,-105.2662174,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!2m2!1d-104.990251!2d39.7392358!1m5!1m1!1s0x876b8d4e278dafd3:0xc8393b7ca01b8058!2m2!1d-105.2705456!2d40.0149856!3e0) from each other, but that can turn into almost an hour during rush hour. Typically, commuting out of Denver into Boulder everyday is the worse of the two options, whereas commuting out of Boulder into Denver is relatively smooth sailing. Boulder is extremely expensive to live in, so traffic into Boulder for the work day and out at the end of the day is pretty extreme as a lot of Boulder's workforce lives outside the city.
 
 Denver is home to the Auraria campus, which houses University of Colorado at Denver, Metropolitan State University and Community College of Denver on a single, shared campus. Boulder is home to the University of Colorado at Boulder, and has a very "college town" feel to it in areas surrounding the university.
 
