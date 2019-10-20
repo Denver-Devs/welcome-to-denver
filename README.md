@@ -10,6 +10,8 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 ## Meetups
 * [Boulder Denver Big Data](https://www.meetup.com/Boulder-Denver-Big-Data/)
+* [Boulder JS](https://www.meetup.com/Boulder-JS)
+* [Bootcampers Collective <> Co-op for Jr. Devs](https://www.meetup.com/Bootcampers-Collective)
 * [Code for Denver](https://www.meetup.com/CodeForDenver/)
 * [CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 * [CreativeMornings - Denver](https://creativemornings.com/cities/den)
@@ -19,7 +21,9 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Denver Creative Tech](https://www.meetup.com/denver-creative-tech/)
 * [Denver Erlang and Elixir](https://www.meetup.com/Denver-Erlang-Elixir/)
 * [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
+* [Denver Leadership](https://www.meetup.com/denverleadership)
 * [Denver Vue.js](https://www.meetup.com/Denver-Vue-js-Meetup/)
+* [Denver Software/Web Development Group](https://www.meetup.com/Denver-Software-Web-Development-Group)
 * [Denver.rb](https://www.meetup.com/Denver-rb/)
 * [DenverScript](https://www.meetup.com/DenverScript/)
 * [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
@@ -27,6 +31,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [Fullstack](https://www.meetup.com/fullstack/)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
 * [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
+* [GraphQL Denver](https://www.meetup.com/graphql-denver)
 * [Learn To Code Front Range](https://www.meetup.com/Learn-To-Code-Front-Range/)
 * [Learn To Code Colorado](https://www.meetup.com/Learn-To-Code-Colorado/)
 * [Mile High Gophers - Denver (Go Lang)](https://www.meetup.com/Denver-Go-Language-User-Group/)
@@ -38,9 +43,11 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 
 
 ## Conferences
+* [Boulder Startup Week](https://boulderstartupweek.com/)
 * [Denver Startup Week](https://www.denverstartupweek.org/)
 * [Develop Denver](https://developdenver.org/)
 * [Dinosaur.js](https://twitter.com/dinosaur_js?lang=en)
+* [Traversal](https://traversalconf.com/)
 
 
 ## Find a Job
@@ -63,7 +70,7 @@ Night life in both cities is extremely active, with action centering around Pear
 ### Rino
 Rino or "River North" encompasses the area just north of downtown on either side of the train tracks and bordered  by the Platte river on the west. Primarily old warehouses and manufacturing plants, this area is currently seeing rapid redevelopment. With the opening of the Colorado A line the DIA and the 38th & Blake st. station, this area is experiencing tremendous growth and will be unrecognizable in a few years due to rezoning of up to 16 stories.
 
-Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to The Big Wonderful seasonal, endless breweries and new restaurants [(like Biju's Little Curry shop )](https://www.littlecurryshop.com/), and some beautiful modern residences.
+Right now this area is home to great restaurants and breweries, but very little residential especially on the Brighton blvd side of the tracks. The eastern half of Rino is home to the Larimer St shopping district. This area is home to endless breweries and new restaurants [(like Biju's Little Curry shop )](https://www.littlecurryshop.com/), and some beautiful modern residences. It's becoming a hot spot for tech offices. There's plenty to eat, but it will cost you a pretty penny. Some of the biggest mainstays of the area are the Industry buildings, and the Source Hotel.
 
 ### Five Points
 Five points consists of some smaller neighborhoods namely; Curtis Park, Whittier, Cole, Five Points, and the San Rafael historic district. These neighborhoods are home to some of the oldest houses and communities in Denver. Restaurants like Tom's Home Cookin' and buildings like the Rossonian Hotel are reminders of the rich history this area has to offer.
@@ -85,9 +92,10 @@ These neighborhoods tend to attract families in their late 20's through early 40
 * [Bardo Coffee House](https://www.bardocoffee.com/)
 * [Carbon Beverage Cafe](http://www.habitcarbon.com/)
 * [Common Grounds Coffee House](http://www.commongroundscoffeehouse.com/)
-* [Quince Essential Coffee](http://www.quinceessentialcoffee.com/)
+* [Quince Essential Coffee](https://www.quinceessentialcoffee.com/)
 
 ## Recreation
+* Rock Climbing[Movement](https://movementgyms.com/rino)
 * Almost too much to do
 
 # Contributing
