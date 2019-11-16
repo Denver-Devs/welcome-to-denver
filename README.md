@@ -28,6 +28,7 @@ This is a resource for anyone visiting Denver or people recently new to the Denv
 * [DenverScript](https://www.meetup.com/DenverScript/)
 * [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 * [Ember.js Denver](https://www.meetup.com/Ember-js-Denver/)
+* [FrontRange Freelancers Are Better Together](https://www.meetup.com/Freelancer-are-better-together)
 * [Fullstack](https://www.meetup.com/fullstack/)
 * [Girl Develop It - Boulder](https://www.girldevelopit.com/chapters/boulder)
 * [Girl Develop It - Denver](https://www.girldevelopit.com/chapters/denver)
